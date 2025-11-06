@@ -17,9 +17,9 @@ def get_requirements(file_path: str) -> List[str]:
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-__version__ = "0.0.5"
+__version__ = "0.0.6"
 REPO_NAME = "mongodb_connector"
-PKG_NAME = "db_automation"
+PKG_NAME = "db_automation825"
 AUTHOR_USER_NAME = "owais825"
 AUTHOR_EMAIL = "owais825@gmail.com"
 
